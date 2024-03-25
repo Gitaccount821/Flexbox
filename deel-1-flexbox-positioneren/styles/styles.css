@@ -1,1 +1,29 @@
-/*Schrijf hier jouw CSS*/
+.opdracht-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.opdracht-1 ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+<!-- E I N D E  O P D R A C H T  1 -->
+
+
+.opdracht-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.opdracht-2 ul {
+    display: flex;
+}
+
+.opdracht-2 ul li {
+    width: 250px;
+
+
+
